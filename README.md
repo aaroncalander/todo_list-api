@@ -1,24 +1,16 @@
-# README
+# todo_list
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A RESTful JSON API for creating and interacting with a to-do list.
 
-Things you may want to cover:
+## Contributors
 
-* Ruby version
+* Aaron Calander / Full-Stack Developer : <https://www.linkedin.com/in/aaroncalander>
 
-* System dependencies
+## Tech Stack
 
-* Configuration
+## Demo
 
-* Database creation
+## Deployment
 
-* Database initialization
+The finished application can be viewed by visiting:
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
